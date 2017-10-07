@@ -1,9 +1,36 @@
 html {
   background-color: cornsilk;
-  font-family: sans sereif;
+  font-size: 1rem;
 }
 
 .logo {
-  font-size: 4rem;
+  font-size: 3rem;
   text-transform: uppercase;
 }
+
+nav {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #93a1a1;
+}
+
+div > strong {
+  color: #fff;
+}
+
+h2 + div {
+  background-color: #b58900;
+}
+.wrapper {
+  background-color: #fdf6e3;
+}
+
+footer {
+  font-size: 1.5rem;
+}
+
+#719e07 #2694d8 #719e47 #2aa198 #657ba3 #586e75 #d04b16 #eee8d5 #fff
